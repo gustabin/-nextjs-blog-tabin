@@ -1,4 +1,5 @@
 //import '../styles/globals.css';
+import '../styles/login.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Modal, ModalBody, ModalHeader, ModalFooter } from 'reactstrap';
 import Script from 'next/script';
